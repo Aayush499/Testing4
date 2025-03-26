@@ -16,6 +16,6 @@ function insertSignature() {
   var doc = DocumentApp.getActiveDocument();
   var body = doc.getBody();
   body.appendParagraph('Best Regards,\nAayush Bhandari\n335007134');
-  # Hello
+  // Hello
 }
 
